@@ -1,2 +1,2 @@
 # cv
-LaTex CV
+LaTeX CV 
